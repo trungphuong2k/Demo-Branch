@@ -5,8 +5,8 @@
 	
 	1.2 Cách tạo branch:
 	git checkout-b <new branch> : vừa khởi tạo vừa chuyển nhánh
-	git checkout <new branch>  : chuyển nhánh
+	git branch <new-branch>  : chuyển nhánh
         1.3. Pull request :
 	Moi thanh vien vào nhom 
-	Vấn đề phân quyền :Việc này cho biết khi đủ các điểu kiện nào thì sẽ được merge vào nhóm chung 
+	Vấn đề phân quyền :Việc này đảm bảo cho việc khi 1 nhánh muốn branch thì phải thông qua review của một số người trước đã rồi mới được merge vào nhóm chính 
 	Tạo pull request : vào pullrequest trên git hub> nhánh cân pull > chọn người review và ngươi merge > creat 
