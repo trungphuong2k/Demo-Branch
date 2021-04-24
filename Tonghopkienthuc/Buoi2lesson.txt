@@ -1,0 +1,12 @@
+ Git branch là gì ?
+        1.1 Tại sao phải phân nhánh : Để có thể nhiều người chạy song song từng feature  trong 1 project mà không ảnh hưởng đến phần đã chạy được hoàn thanh 
+	
+	Nếu ko phân nhánh thì khi  việc merge  xảy ra rất có khả năng bị lỗi ảnh hưởng đến nhánh master
+	
+	1.2 Cách tạo branch:
+	git checkout-b <new branch> : vừa khởi tạo vừa chuyển nhánh
+	git checkout <new branch>  : chuyển nhánh
+        1.3. Pull request :
+	Moi thanh vien vào nhom 
+	Vấn đề phân quyền :Việc này cho biết khi đủ các điểu kiện nào thì sẽ được merge vào nhóm chung 
+	Tạo pull request : vào pullrequest trên git hub> nhánh cân pull > chọn người review và ngươi merge > creat 
