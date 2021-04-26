@@ -1,0 +1,4 @@
+sử dụng git branch để làm gì?
+- khi mà làm project mỗi người sẽ làm một chức năng hoặc nhiệm vụ nào đó, để dễ cho việc quản lí thay vì đẩy thẳng vào master sẽ chia ra các nhánh nhỏ hay còn gọi là các branch.
+sử dụng git checkout, git switch
+sử dụng pull request.
