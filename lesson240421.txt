@@ -1,0 +1,20 @@
+1.  Branch
+    -   Branch dùng để phân nhánh
+    -   Branch đã phân nhánh sẽ không ảnh hưởng đến branch khác nên có thể tiến hành nhiều thay đổi đồng
+    thời trong cùng 1 repository.
+    -   git branch : Liệt kê branch ở local
+    -   git branch <branch name> : Tạo branch    
+    -   git branch -a : Liệt kê toàn bộ branch
+2 Chuyển nhánh:
+    -   Git checkout [<option>] <branch>
+    -   Git switch
+    -   Git checkout có độ phổ biến cao hơn, ngoài ra còn được dùng để loại bỏ những thay đổi trong file
+3. Pull request/Merge request:
+    -   cho phép thông báo tới chủ repo về các thay đổi đã push lên repo
+4. Git fetch:
+    -   dùng để tải dữ liệu từ remote repo về máy
+    -   dữ liệu tải về chưa tích hợp với dữ liệu trong máy
+5. Git merge:
+    -   git merge destination_branch_name
+    -   Kết hợp sự thay đổi của các commit kể từ lúc tách nhánh của nhánh hiện tại vào nhánh tách ra trước đó
+© 2021 GitHub, Inc.
