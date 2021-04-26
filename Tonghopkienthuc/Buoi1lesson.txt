@@ -12,7 +12,7 @@ Git và Git Hub để làm gì ?
 	Sử dụng git push origin master ( push sự thay đổi của mình lên github(code của bạn))
 	Sử dụng git clone( lấy project trên github về máy của mình)
 	Sử dụng git pull origin master ( kéo tất cả những thay đổi mới nhất trên github của mình về máy tính của mình(trong thư mục dùng git))git
-	Để chuyển tài khoảng ở  máy local sang máy khác thì vào controler>
+	Để chuyển tài khoảng ở  máy local sang máy khác thì vào controler>User Account> Credential Manager
 	
 	1.2 Cấu Trúc Git commit :
 	<type>(<scope>): <subject>
