@@ -21,13 +21,14 @@
 	Mục đích của việc tạo pull request: để đưa những file của bạn lên 1 host chung - nơi mọi người có quyền truy cập sẽ truy cập vào và cùng review, để lại comment trên những file đó
 5. git fetch
 	Cập nhập sự thay đổi thông tin của remote repository so với local repository
-	Câu lệnh: git fetch <name remote>
+	Câu lệnh: git fetch destination_branch_name
 6. git merge
 	Gộp (đồng bộ) 2 nhánh lại với nhau để giải quyết chung một nhiệm vụ
-	Câu lệnh: git merge destination_branch_name 
+	Câu lệnh: git merge destination_branch_name
 		destination_branch_name là tên nhánh mà bạn muốn merge vào nhánh hiện tại
 7. git pull
 	git pull là lệnh hợp nhất các thay đổi từ Remote repository vào Local repository
 	git pull = git fetch + git merge
 	Câu lệnh: git pull destination_branch_name
 		destination_branch_name là tên nhánh mà bạn muốn merge vào nhánh hiện tại
+Review by TrungPhuong : Bài làm của bạn rất đầy đủ , mình không có ý kiến gì thêm nha :))
